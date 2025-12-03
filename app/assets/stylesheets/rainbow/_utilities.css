@@ -1,0 +1,10 @@
+/* Custom utility classes */
+
+@layer utilities {
+  /* Add your custom utility styles here */
+  /* Example:
+   * .text-shadow {
+   *   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+   * }
+   */
+}

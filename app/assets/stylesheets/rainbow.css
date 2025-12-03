@@ -1,0 +1,8 @@
+/*
+ * Rainbow - Shared Tailwind CSS Styles
+ * This file can be imported into Rails applications to share common Tailwind configurations
+ */
+
+@import "rainbow/base";
+@import "rainbow/components";
+@import "rainbow/utilities";

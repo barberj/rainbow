@@ -1,0 +1,10 @@
+/* Shared component styles using Tailwind's @layer directive */
+
+@layer components {
+  /* Add your custom component styles here */
+  /* Example:
+   * .btn-primary {
+   *   @apply bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600;
+   * }
+   */
+}

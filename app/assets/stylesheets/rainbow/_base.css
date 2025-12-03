@@ -1,0 +1,10 @@
+/* Base Tailwind styles and custom base configurations */
+
+@layer base {
+  /* Add your custom base styles here */
+  /* Example:
+   * body {
+   *   @apply font-sans antialiased;
+   * }
+   */
+}
